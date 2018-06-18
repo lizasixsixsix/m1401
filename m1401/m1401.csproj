@@ -4,4 +4,9 @@
     <TargetFramework>netcoreapp2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="stackexchange.redis" Version="1.2.6" />
+    <PackageReference Include="system.runtime.caching" Version="4.5.0" />
+  </ItemGroup>
+
 </Project>

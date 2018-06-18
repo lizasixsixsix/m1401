@@ -1,0 +1,6 @@
+﻿{
+  "redis": {
+    "endpoint": "",
+    "password": ""
+  }
+}
